@@ -15,7 +15,6 @@
 *.war
 *.nar
 *.ear
-*.zip
 *.tar.gz
 *.rar
 *.iml
@@ -34,4 +33,3 @@ target/
 .vscode
 /gradlew
 /gradlew.bat
-© 2022 GitHub, Inc.
